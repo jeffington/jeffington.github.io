@@ -9,7 +9,7 @@ layout: default
 ### preTOLD
 
 |---|---|
-|![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit. The source code for PlayTunes is publicly available on GitHub.|
+|![preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane.|
 
 ### Ketchup
 
