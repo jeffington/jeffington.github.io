@@ -5,7 +5,7 @@ title: Projects
 
 
 |---|---|
-||C-130J preTOLD (2014 - Today)|
+||C-130J preTOLD for iPad (2014 - Today)|
 |---|---|
 ||_Elite Electronic Engineering Downers Grove, IL_|
 ||__Project Website:__ [C-130J preTOLD™](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold)|
@@ -33,7 +33,7 @@ title: Projects
 ||Cardley (2015)|
 |---|---|
 ||_Cardley_|
-|Icon|Description|
+|![Cardley App Icon](/assets/images/projects/cardley/cardley-app-icon-96.png)|Description|
 ||Developed with Java and the Android Development Tools.|
 |---|---|
 
