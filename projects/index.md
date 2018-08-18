@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Projects
-
-## Current
-
 ### preTOLD
 
 |---|---|
