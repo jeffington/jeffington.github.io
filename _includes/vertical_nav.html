@@ -1,22 +1,22 @@
 <nav class="navbar flex-column navbar-light">
 	<a class="navbar-brand" href="/">Jeff Meyerhoff</a>
 	<a class="nav-link 			
-	{% if page.title contains "Blog" %}
+	{% if page.title contains "Home" %}
             active
             {% endif %}
-            " href="/">Home <span class="sr-only">(current)</span></a>
+            " href="/">Home</a>
 	<a class="nav-link
 				{% if page.title contains "Blog" %}
             active
             {% endif %}
 	" href="/blog/">Blog</a>
 	<a class="nav-link
-				{% if page.title contains "Blog" %}
+				{% if page.title contains "Projects" %}
             active
             {% endif %}
 	" href="/projects/">Projects</a>
 	<a class="nav-link
-				{% if page.title contains "Blog" %}
+				{% if page.title contains "Contact" %}
             active
             {% endif %}
 	" href="/contact/">Contact</a>
