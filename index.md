@@ -2,4 +2,5 @@
 layout: default
 title: Home
 ---
-<h1>Hello, world!</h1>
+
+# Hello
