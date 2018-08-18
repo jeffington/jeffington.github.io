@@ -22,15 +22,21 @@ title: Projects
 |![PlayTunes App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
 ||Developed with C#, .NET, and Xamarin.
 
-|![Ketchup App Icon](/assets/images/projects/ketchup/notepadrt-app-icon-96.png)|asdfasdfasdf|
-
 
 ## Past Projects
 
 |---|---|
-||Savor
+||Cardley|
 |---|---|
-||__Savor__|
+||_Cardley_|
+|---|---|
+
+---
+
+|---|---|
+||Savor|
+|---|---|
+||_Savor_|
 |---|---|
 
 ---
