@@ -12,6 +12,8 @@ title: Projects
 ||Developed with C#, .NET, and Xamarin.|
 |---|---|
 
+---
+
 |---|---|
 ||Ketchup for iOS (2018 - Today)|
 |---|---|
@@ -25,6 +27,7 @@ title: Projects
 |---|---|
 |![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit. The source code for PlayTunes is publicly available on GitHub.|
 
+---
 
 |---|---|
 ||Notepad RT for Windows 8 (2012)|
