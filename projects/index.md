@@ -26,6 +26,8 @@ title: Projects
 ||PlayTunes for Android (2010 - 2015)|
 |---|---|
 |![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit. The source code for PlayTunes is publicly available on GitHub.|
+||Developed with Java and the Android Development Tools|
+||<img src="/assets/images/projects/playtunes/screenshot1.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot2.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot3.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot4.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot5.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot6.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot7.jpg" alt="" class="img-thumbnail"><img src="/assets/images/projects/playtunes/screenshot8.jpg" alt="" class="img-thumbnail">|
 
 ---
 
