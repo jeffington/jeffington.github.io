@@ -8,7 +8,9 @@ title: Projects
 |preTOLD (2014 - Today)|
 |---|---|
 |![preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane.|
-
+|---|---|
+|Developed with C#, .NET, and Xamarin.|
+|---|---|
 
 |---|---|
 |Ketchup for iOS (2018 - Today)|
