@@ -7,7 +7,7 @@ title: Projects
 |---|---|
 ||C-130J preTOLD for iPad (2014 - Today)|
 |---|---|
-||_Elite Electronic Engineering Downers Grove, IL_|
+||_Elite Electronic Engineering_|
 ||__Project Website:__ [C-130J preTOLD™](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold)|
 |![C-130J preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane. C-130J preTOLD is the only TOLD planning tool approved by Lockheed Martin for technical accuracy and overall functionality. It takes the TOLD planning capability of the Mission Computer (MC TOLD) off the flight deck and into the hands of crew members and planners. C-130J preTOLD has been validated against MC TOLD in partnership with Lockheed Martin. For crew members, C-130J preTOLD adds pinpoint accuracy and confidence to preflight mission planning and enables operators to utilize the full capability of the C-130J every day.|
 ||Developed with C#, .NET, and Xamarin.|
