@@ -26,17 +26,21 @@ title: Projects
 ## Past Projects
 
 |---|---|
-||Cardley|
+||Cardley (2015)|
 |---|---|
 ||_Cardley_|
+|Icon|Description|
+||Developed with Java and the Android Development Tools.|
 |---|---|
 
 ---
 
 |---|---|
-||Savor|
+||Savor (2014)|
 |---|---|
 ||_Savor_|
+|Icon|Description|
+||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
 |---|---|
 
 ---
