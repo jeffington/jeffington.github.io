@@ -60,9 +60,10 @@ title: Projects
 
 |---|---|
 ||Notepad RT for Windows 8 (2012)|
-||_Independently Released_|
 |---|---|
+||_Independently Released_|
 |![Notepad RT App Icon](/assets/images/projects/notepadrt/notepadrt-app-icon-96.png)|Notepad RT is the missing code editor for developers and geeks for Windows 8 with rich support for text manipulation and syntax highlighting. Built specifically for Windows 8, Notepad RT matches the features and performance of desktop-class editors. Notepad RT is compatible with x86, x64, and ARM. It features syntax highlighting for HTML, CSS, JavaScript, PHP, Python, Ruby, C/C++, C#, Java, and Markdown, several popular Dark and Light Syntax highlighting themes to choose from, live syntax checking for JavaScript and CSS, automatic indention, Line wrapping, and Code folding, highlighting of matching parentheses and selected line, find and replace using regular expressions, use the Share Charm to send code via IM or Mail, and toggle invisible characters.|
+||Developed with JavaScript, HTML, and CSS using Visual Studio for Windows.|
 ||<img src="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg" alt="" class="img-thumbnail" style="width: 228px; height: 128px;"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg" alt="" class="img-thumbnail" style="width: 228px; height: 128px;">|
 
 ---
