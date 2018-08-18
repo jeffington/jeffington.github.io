@@ -22,8 +22,11 @@ title: Projects
 |![Ketchup App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
 ||Developed with C#, .NET, and Xamarin.
 
+---
 
 ## Past Projects
+
+---
 
 |---|---|
 ||Cardley (2015)|
