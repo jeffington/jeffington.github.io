@@ -19,7 +19,7 @@ title: Projects
 ||Ketchup for iOS (2018 - Today)|
 |---|---|
 ||_Independently Released_|
-|![PlayTunes App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
+|![Ketchup App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
 ||Developed with C#, .NET, and Xamarin.
 
 
@@ -39,7 +39,7 @@ title: Projects
 ||Savor (2014)|
 |---|---|
 ||_Savor_|
-|Icon|Description|
+|![Savor App Icon](/assets/images/projects/savor-app-icon-96.png)||Description|
 ||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
 |---|---|
 
