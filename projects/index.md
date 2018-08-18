@@ -32,9 +32,10 @@ title: Projects
 |---|---|
 ||Cardley (2015)|
 |---|---|
-||_Cardley_|
-|![Cardley App Icon](/assets/images/projects/cardley/cardley-app-icon-96.png)|Description|
+||_Cardley (now Tidal Commerce)_|
+|![Cardley App Icon](/assets/images/projects/cardley/cardley-app-icon-96.png)|Cardley was a customer loyalty program for restaurants and merchants. Customers could sign up by swiping their credit card at the kiosk, and future purchases made with the registered card would automatically receive discounts and rewards. |
 ||Developed with Java and the Android Development Tools.|
+||<img src="/assets/images/projects/pretold/screenshot-port-1.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;"><img src="/assets/images/projects/pretold/screenshot-port-2.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;"><img src="/assets/images/projects/pretold/screenshot-port-3.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;"><img src="/assets/images/projects/pretold/screenshot-port-4.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;"><img src="/assets/images/projects/pretold/screenshot-port-5.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;"><img src="/assets/images/projects/pretold/screenshot-port-6.png" alt="" class="img-thumbnail" style="width: 240px; height:160px;">|
 |---|---|
 
 ---
@@ -42,7 +43,7 @@ title: Projects
 |---|---|
 ||Savor (2014)|
 |---|---|
-||_Savor_|
+||_Savor (now Tidal Commerce)_|
 |![Savor App Icon](/assets/images/projects/savor-app-icon-96.png)||Description|
 ||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
 |---|---|
