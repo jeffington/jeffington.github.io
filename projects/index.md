@@ -5,7 +5,7 @@ title: Projects
 
 
 |---|---|
-||C-130J preTOLD for iPad (2014 - Today)|
+||C-130J preTOLD for iPad (2014 - Present)|
 |---|---|
 ||_Elite Electronic Engineering_|
 ||__Project Website:__ [C-130J preTOLD™](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold)|
@@ -17,7 +17,7 @@ title: Projects
 ---
 
 |---|---|
-||Ketchup for iOS (2018 - Today)|
+||Ketchup for iOS (2018 - Present)|
 |---|---|
 ||_Independently Released_|
 ||__Project Website:__ [ketchupapp.net](https://ketchupapp.net)|
