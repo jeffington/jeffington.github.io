@@ -25,3 +25,7 @@ td {
 	width: 180px;
 	height: 120px;
 }
+
+time {
+	font-style: italic;
+}
