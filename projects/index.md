@@ -20,6 +20,7 @@ title: Projects
 ||Ketchup for iOS (2018 - Today)|
 |---|---|
 ||_Independently Released_|
+||__Project Website:__ [ketchupapp.net](https://ketchupapp.net)|
 |![Ketchup App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
 ||Developed with C#, .NET, and Xamarin.
 
@@ -41,10 +42,10 @@ title: Projects
 ---
 
 |---|---|
-||Savor (2014)|
+||Savor for iPad (2014)|
 |---|---|
 ||_Savor (now Tidal Commerce)_|
-|![Savor App Icon](/assets/images/projects/savor-app-icon-96.png)||Description|
+|![Savor App Icon](/assets/images/projects/savor-app-icon-96.png)|Savor was a retail offer and deal website. The Savor app for iPad featured a Flipboard-style page turning interface that let users browse offers and deals by category or by retailer.|
 ||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
 |---|---|
 
