@@ -24,8 +24,22 @@
             </div>
             
             <div class="col">
-               
-                  {{content}}
+               <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+            	<article role="article" itemprop="articleBody">
+            	{% if page.date %}
+            <time itemprop="datePublished" datetime="{{ page.date }}" class="date">{{ page.date | date_to_string }}</time>
+        {% endif %}
+        <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+        
+                {{ content }}
+            	</article>
+
+				{% include share.html %}
+				{% include author.html %}
+				{% include comments.html %}
+				{% include footer.html %}
+        		</section>
 
             </div>
 
