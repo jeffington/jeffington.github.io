@@ -31,7 +31,7 @@
             	
         <h1 itemprop="name">{{ page.title }}</h1>
         {% if page.date %}
-            <time itemprop="datePublished" datetime="{{ page.date }}" class="date">{{ page.date | date_to_string }}</time>
+            <p><time itemprop="datePublished" datetime="{{ page.date }}" class="date">{{ page.date | date_to_string }}</time></p>
         {% endif %}
                 {{ content }}
             	</article>
