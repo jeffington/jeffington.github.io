@@ -8,6 +8,11 @@ td {
 	height: 205px;
 }
 
+.img-ipad-land {
+	width: 256px;
+	height: 192px;
+}
+
 .img-android-port {
 	width: 134px;
 	height:238px;
