@@ -1,19 +1,26 @@
 <nav class="navbar flex-column navbar-dark theme-background">
 	<a class="navbar-brand" href="/" style="margin-right:0px;">Jeff Meyerhoff</a>
-	
+	<ul>
+	<li class="nav-item">
 	<a class="nav-link
 				{% if page.title contains "Blog" %}
             active
             {% endif %}
 	" href="/blog/">Blog</a>
+	</li>
+	<li class="nav-item">
 	<a class="nav-link
 				{% if page.title contains "Projects" %}
             active
             {% endif %}
 	" href="/projects/">Projects</a>
+	</li>
+	<li class="nav-item">
 	<a class="nav-link
 				{% if page.title contains "Contact" %}
             active
             {% endif %}
 	" href="/contact/">Contact</a>
+	</li>
+	</ul>
 </nav>
