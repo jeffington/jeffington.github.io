@@ -33,3 +33,7 @@ time {
 .theme-background {
 	background-color: #2196F3;
 }
+
+a.nav-link {
+	color: white;
+}
