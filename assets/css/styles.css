@@ -29,3 +29,7 @@ td {
 time {
 	font-style: italic;
 }
+
+.navbar.flex-column {
+	border-right: 1px solid #ddd;
+}
