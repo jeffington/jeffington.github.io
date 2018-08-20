@@ -30,6 +30,6 @@ time {
 	font-style: italic;
 }
 
-.navbar.flex-column {
-	border-right: 1px solid #ddd;
+.theme-background {
+	background-color: #2196F3;
 }
