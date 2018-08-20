@@ -33,3 +33,8 @@ time {
 .theme-background {
 	background-color: #1565C0;
 }
+
+.btn-primary {
+	background-color: #1565C0;
+	border-color: #1565C0;
+}
