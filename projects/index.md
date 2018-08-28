@@ -17,6 +17,18 @@ title: Projects
 ---
 
 |---|---|
+||C-130J preTOLD for iPad (2014 - Present)|
+|---|---|
+||_Elite Electronic Engineering_|
+||__Project Website:__ [C-130J preTOLD™](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold)|
+|![C-130J preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane. C-130J preTOLD is the only TOLD planning tool approved by Lockheed Martin for technical accuracy and overall functionality. It takes the TOLD planning capability of the Mission Computer (MC TOLD) off the flight deck and into the hands of crew members and planners. C-130J preTOLD has been validated against MC TOLD in partnership with Lockheed Martin. For crew members, C-130J preTOLD adds pinpoint accuracy and confidence to preflight mission planning and enables operators to utilize the full capability of the C-130J every day.|
+||Developed with C#, .NET, and Xamarin.|
+||<a href="/assets/images/projects/pretold/screenshot-port-1.png"><img src="/assets/images/projects/pretold/screenshot-port-1.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-2.png"><img src="/assets/images/projects/pretold/screenshot-port-2.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-3.png"><img src="/assets/images/projects/pretold/screenshot-port-3.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-4.png"><img src="/assets/images/projects/pretold/screenshot-port-4.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-5.png"><img src="/assets/images/projects/pretold/screenshot-port-5.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-6.png"><img src="/assets/images/projects/pretold/screenshot-port-6.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-7.png"><img src="/assets/images/projects/pretold/screenshot-port-7.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-8.png"><img src="/assets/images/projects/pretold/screenshot-port-8.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-9.png"><img src="/assets/images/projects/pretold/screenshot-port-9.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-11.png"><img src="/assets/images/projects/pretold/screenshot-port-11.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-12.png"><img src="/assets/images/projects/pretold/screenshot-port-12.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>|
+|---|---|
+
+---
+
+|---|---|
 ||Ketchup for iOS (2018 - Present)|
 |---|---|
 ||_Independently Released_|
@@ -75,8 +87,9 @@ title: Projects
 |---|---|
 ||SparkHire Mobile for iOS and Android (2011-2013)|
 |---|---|
-||
-||
+||_SparkHire_|
+||Company Website:__ [sparkhire.com](https://sparkhire.com)|
+||SparkHire is a job search and video interviewing service. I worked alongside with the SparkHire web development team to design and create an iOS and Android application that mirrored the functionality of the website. The app allowed users to sign up with SparkHire, edit their profile, record videos and post them from within the app. |
 
 ---
 
