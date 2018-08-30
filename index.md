@@ -6,12 +6,13 @@ title: Home
 
 Hi, I'm Jeff Meyerhoff and I'm a mobile application developer.
 
-I started working as a freelance software developer right out of college in 2010.
+I've written mobile applications for iPhone and iPad in Objective-C, Android applications in Java, . For the last five years I've worked with Elite Electronic Engineering in Downers Grove, IL. Under the direction of Kevin Halpin, I re-used the data model from a Visual Basic.NET application to create a version for iPad called **preTOLD C-130J** (or just preTOLD) using Visual Studio for Mac and the Xamarin tools. 
 
-I enjoy working directly with clients, being flexible to their project needs, and .
+And using the application PaintCode, I have successfully created custom user interface (UI) components. (Example TOLD Card.) One way that pilots and coordinators share flight information is through a TOLD (TOLD is short for Take Off and Landing)
 
-While I enjoyed getting to use many tools and develop for many platforms over the years, I have relished working with Elite Electronic Engineering for the last four years and working within the same toolset all in that time.
+The separate pieces of the TOLD card are all created in PaintCode. This gave us the flexibility to create the custom interaction of tapping and dismissing each section of the form, as well as switching the light/dark mode.
 
-I've enjoyed creating cross-platform data models in C# and .NET that can be used in applications on Windows, iOS, Android, and macOS. Remaining in a single programming language while working with different platform APIs has really accelerated my growth as a developer and given me a new appreciation for the similarities and differences of the major platforms.
+Using PaintCode also made it very straightforward to shareable PDFs.
 
+For a list of other recent and notable projects, visit my projects page. 
 
