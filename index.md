@@ -110,7 +110,7 @@ _Tidal Commerce formerly Savor (2014)_
 
 Savor was a retail offer and deal website.
 
-I was hired to create an iPad app that presented a version of the Savor website that was customized with a Flipboard-style page layout for iPad. The iPad app used the (Card.io)[https://www.card.io] library to let users register for accounts using their credit card. I coordinated with the Savor web development team in Hyderabad, India to make sure that our native code and web code worked together.
+I was hired to create an iPad app that presented a version of the Savor website that was customized with a Flipboard-style page layout for iPad. The iPad app used the (Card.io)[https://www.card.io] library to let users register for accounts using their credit card. I coordinated with the remote Savor web development team in Hyderabad to make sure that our native code and web code worked together.
 
 Savor was unable to secure funding for continued development or a production release.
 
