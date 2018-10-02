@@ -30,11 +30,9 @@ The separate pieces of the TOLD card are all created in PaintCode. This gave us 
 
 Using PaintCode also made it very straightforward to shareable PDFs.
 
-### Looking For
-
-
-
 ## Projects
+
+---
 
 ### C-130J preTOLD™ for iPad (2014 - Present)|
 
@@ -50,12 +48,6 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 
 <a href="/assets/images/projects/pretold/screenshot-port-1.png"><img src="/assets/images/projects/pretold/screenshot-port-1.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-2.png"><img src="/assets/images/projects/pretold/screenshot-port-2.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-3.png"><img src="/assets/images/projects/pretold/screenshot-port-3.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-4.png"><img src="/assets/images/projects/pretold/screenshot-port-4.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-5.png"><img src="/assets/images/projects/pretold/screenshot-port-5.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-6.png"><img src="/assets/images/projects/pretold/screenshot-port-6.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-7.png"><img src="/assets/images/projects/pretold/screenshot-port-7.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-8.png"><img src="/assets/images/projects/pretold/screenshot-port-8.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-9.png"><img src="/assets/images/projects/pretold/screenshot-port-9.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-11.png"><img src="/assets/images/projects/pretold/screenshot-port-11.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-12.png"><img src="/assets/images/projects/pretold/screenshot-port-12.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
 
----
-
-## Past Projects
-
----
-
 |---|---|
 ||Cardley (2015)|
 |---|---|
@@ -65,7 +57,7 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 ||<a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>|
 |---|---|
 
----
+
 
 |---|---|
 ||PlayTunes for Android (2010 - 2015)|
@@ -76,7 +68,7 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 ||Source code available at <a href="https://github.com/jeffington/PlayTunes">GitHub jeffington/PlayTunes</a>|
 ||<a href="/assets/images/projects/playtunes/screenshot-1.png"><img src="/assets/images/projects/playtunes/screenshot-1.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-2.png"><img src="/assets/images/projects/playtunes/screenshot-2.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-3.png"><img src="/assets/images/projects/playtunes/screenshot-3.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-4.png"><img src="/assets/images/projects/playtunes/screenshot-4.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-5.png"><img src="/assets/images/projects/playtunes/screenshot-5.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-6.png"><img src="/assets/images/projects/playtunes/screenshot-6.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-7.png"><img src="/assets/images/projects/playtunes/screenshot-7.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-8.png"><img src="/assets/images/projects/playtunes/screenshot-8.png" alt="" class="img-thumbnail img-android-port"></a>|
 
----
+
 
 |---|---|
 ||Savor for iPad (2014)|
@@ -87,7 +79,7 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 ||<a href="/assets/images/projects/savor/savor-screenshot-1.jpg"><img src="/assets/images/projects/savor/savor-screenshot-1.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-2.jpg"><img src="/assets/images/projects/savor/savor-screenshot-2.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-3.jpg"><img src="/assets/images/projects/savor/savor-screenshot-3.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-4.jpg"><img src="/assets/images/projects/savor/savor-screenshot-4.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-5.jpg"><img src="/assets/images/projects/savor/savor-screenshot-5.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-6.jpg"><img src="/assets/images/projects/savor/savor-screenshot-6.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-7.jpg"><img src="/assets/images/projects/savor/savor-screenshot-7.jpg" alt="" class="img-thumbnail img-ipad-land"></a>|
 |---|---|
 
----
+
 
 |---|---|
 ||Notepad RT for Windows 8 (2012)|
@@ -98,7 +90,7 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 ||Source code available at <a href="https://github.com/jeffington/Notepad-RT">GitHub jeffington/Notepad-RT</a>|
 ||<a href="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg" alt="" class="img-thumbnail img-windows-land"></a><a href="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg" alt="" class="img-thumbnail img-windows-land"></a>|
 
----
+
 
 |---|---|
 ||SparkHire Mobile for iOS and Android (2011-2013)|
@@ -106,6 +98,4 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 ||_SparkHire_|
 ||Company Website:__ [sparkhire.com](https://sparkhire.com)|
 ||SparkHire is a job search and video interviewing service. I worked alongside with the SparkHire web development team to design and create an iOS and Android application that mirrored the functionality of the website. The app allowed users to sign up with SparkHire, edit their profile, record videos and post them from within the app. |
-
----
 
