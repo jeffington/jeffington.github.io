@@ -85,7 +85,9 @@ _Independently Released (2010 - 2015)_
 
 <img class="icon-img float-left" src="/assets/images/projects/playtunes/playtunes3-app-icon-96.png"/>
 
-PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit.
+PlayTunes was originally written for Android 1.5 Cupcake in 2010. It was released as a completely free app and it accrued over 100 thousand downloads over its lifetime. In that time, I kept it up-to-date with the rapidly evolving platform standards of Android.
+
+Even though the application is no longer under active development, the user interface has aged pretty well and resembles other modern music applications such as Spotify and Pandora.
 
 Developed with Java and the Android Development Tools.
 
