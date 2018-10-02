@@ -21,7 +21,7 @@ Mobile application developer working in Xamarin C# .NET, with experience in iOS 
 
 Hi, I'm Jeff Meyerhoff and I'm a mobile application developer living and working in Chicago, IL. Since graduating with a B.S. in Computer Science from Grand Valley State University in 2010, I have been working as a contractor and consultant developing consumer-facing mobile apps for a variety of clients.
 
-For the last five years I've worked with Elite Electronic Engineering in Downers Grove, IL. We created an app for iPad called C-130J preTOLD (or just preTOLD). We used Visual Studio for Mac and the Xamarin tools to re-use the data model from a Windows .NET application and build a completely new user interface on top of it.
+For the last five years I've worked with Elite Electronic Engineering in Downers Grove, IL. We created an app for iPad called C-130J preTOLD (or just preTOLD). We used Visual Studio for Mac and the Xamarin tools to re-use code from a legacy Windows C# .NET application and build a completely new user interface on top of it.
 
 ## Projects
 
