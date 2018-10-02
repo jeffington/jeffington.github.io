@@ -21,7 +21,6 @@ Hi, I'm Jeff Meyerhoff and I'm a mobile application developer living and working
 
 For the last five years I've worked with Elite Electronic Engineering in Downers Grove, IL. We created an app for iPad called **C-130J preTOLD** (or just preTOLD). We used Visual Studio for Mac and the Xamarin tools to re-use the data model from a Windows .NET application and build a completely new user interface on top of it.
 
-
 ## Projects
 
 ---
@@ -34,11 +33,11 @@ _Elite Electronic Engineering (2014 - Present)_
 
 preTOLD is a flight planning application for U.S. Air Force pilots of the Lockheed Martin C-130J cargo airplane. C-130J preTOLD is the only takeoff and landing (TOLD) planning tool approved by Lockheed Martin for technical accuracy and overall functionality.
 
-I worked with Elite to design a user interface for preTOLD that aimed to be easy to use and understand in a working environment that traditionally runs Windows. As you can see in the screenshots below, our interface has dedicated buttons to create new flight plan scenarios and to save them. By putting this functionality front and center, users of preTOLD don't have to dig into menus or browse files to open, modify, and save flight plans. As a result, the feedback we have gotten from 
+I worked with Elite to design a user interface for preTOLD that is easy to use and understand even for first-time iPad users. Our interface has dedicated buttons to create new flight plan scenarios and to save them. By putting this functionality front and center, users of preTOLD don't have to dig into menus or browse files to open, modify, and save their flight plans. As a result, the feedback we get from pilots and flight instructors is overwhelmingly positive.
 
-I implemented our design using the Xamarin.iOS tools. We chose Xamarin because Elite had an existing Windows .NET codebase. Xamarin enabled us to use the exact same calculation code in both preTOLD for iOS and preTOLD for Windows. To re-use more code between platforms, we use the ViewModel development pattern. This pattern allows us to separate the application logic from the logic that drives the UI ().
+I implemented our design using the Xamarin.iOS tools. We chose Xamarin because Elite had an existing Windows .NET codebase. Xamarin enabled us to use the exact same calculation code across both Windows and iOS. To facilitate more code sharing, we designed the data model using the ViewModel design pattern. This enabled us to share some UI logic (such as input validation) and has made testing and debugging much easier.
 
-One of the major features of preTOLD is the ability to export your flight plans as a PDF "TOLD Card". The TOLD Card is a standardized way of sharing flight information. Using the application <a href="https://www.paintcodeapp.com">PaintCode</a>, created completely custom user interface (UI) components.  Because the TOLD Card is a custom view, we can easily switch between light and dark modes, export the TOLD Card to PDF, and have custom interactions with the individual sections of the page.
+One of the major features of preTOLD is the ability to export your flight plans as a PDF "TOLD Card". The TOLD Card is a standardized way of sharing flight information. Using the application <a href="https://www.paintcodeapp.com">PaintCode</a>, I created the TOLD Card as a custom view. This enabled us to easily switch between light and dark color schemes, export the TOLD Card to PDF without a third party library, as well as enable other custom interactions.
 
 Developed with C#, .NET, and Xamarin iOS tools.
 
