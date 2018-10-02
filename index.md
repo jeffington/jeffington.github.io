@@ -59,16 +59,6 @@ Developed with C#, .NET, and Xamarin.
 
 ---
 
-|---|---|
-||Ketchup for iOS (2018 - Present)|
-|---|---|
-||_Independently Released_|
-||__Project Website:__ [ketchupapp.net](https://ketchupapp.net)|
-|![Ketchup App Icon](/assets/images/projects/ketchup/ketchup-app-icon-96.png)||
-||Developed with C#, .NET, and Xamarin.
-
----
-
 ## Past Projects
 
 ---
