@@ -34,9 +34,9 @@ Using PaintCode also made it very straightforward to shareable PDFs.
 
 ---
 
-### C-130J preTOLD™ for iPad (2014 - Present)|
+### C-130J preTOLD™ for iPad
 
-_Elite Electronic Engineering_
+_Elite Electronic Engineering (2014 - Present)_
 
 <img src="/assets/images/projects/pretold/pretold-app-icon-96.png" class="float-left"/>
 
@@ -48,54 +48,69 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 
 <a href="/assets/images/projects/pretold/screenshot-port-1.png"><img src="/assets/images/projects/pretold/screenshot-port-1.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-2.png"><img src="/assets/images/projects/pretold/screenshot-port-2.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-3.png"><img src="/assets/images/projects/pretold/screenshot-port-3.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-4.png"><img src="/assets/images/projects/pretold/screenshot-port-4.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-5.png"><img src="/assets/images/projects/pretold/screenshot-port-5.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-6.png"><img src="/assets/images/projects/pretold/screenshot-port-6.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-7.png"><img src="/assets/images/projects/pretold/screenshot-port-7.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-8.png"><img src="/assets/images/projects/pretold/screenshot-port-8.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-9.png"><img src="/assets/images/projects/pretold/screenshot-port-9.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-11.png"><img src="/assets/images/projects/pretold/screenshot-port-11.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-12.png"><img src="/assets/images/projects/pretold/screenshot-port-12.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a><a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
 
-|---|---|
-||Cardley (2015)|
-|---|---|
-||_Cardley (now Tidal Commerce)_|
-|![Cardley App Icon](/assets/images/projects/cardley/cardley-app-icon-96.png)|Cardley was a customer loyalty program for restaurants and merchants. Customers could sign up by swiping their credit card at the kiosk, and future purchases made with the registered card would automatically receive discounts and rewards. |
-||Developed with Java and the Android Development Tools.|
-||<a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>|
-|---|---|
+
+### Cardley
+
+_Tidal Commerce formerly Cardley (2015)_
+
+<img class="float-left" src="/assets/images/projects/cardley/cardley-app-icon-96.png">
+
+Cardley was a customer loyalty program for restaurants and merchants. Customers could sign up by swiping their credit card at the kiosk, and future purchases made with the registered card would automatically receive discounts and rewards.
+
+Developed with Java and the Android Development Tools.
+
+<a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>
 
 
+### PlayTunes for Android 
 
-|---|---|
-||PlayTunes for Android (2010 - 2015)|
-|---|---|
-||_Independently Released_|
-|![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit.|
-||Developed with Java and the Android Development Tools.|
-||Source code available at <a href="https://github.com/jeffington/PlayTunes">GitHub jeffington/PlayTunes</a>|
-||<a href="/assets/images/projects/playtunes/screenshot-1.png"><img src="/assets/images/projects/playtunes/screenshot-1.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-2.png"><img src="/assets/images/projects/playtunes/screenshot-2.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-3.png"><img src="/assets/images/projects/playtunes/screenshot-3.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-4.png"><img src="/assets/images/projects/playtunes/screenshot-4.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-5.png"><img src="/assets/images/projects/playtunes/screenshot-5.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-6.png"><img src="/assets/images/projects/playtunes/screenshot-6.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-7.png"><img src="/assets/images/projects/playtunes/screenshot-7.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-8.png"><img src="/assets/images/projects/playtunes/screenshot-8.png" alt="" class="img-thumbnail img-android-port"></a>|
+_Independently Released (2010 - 2015)_
 
+<img class="float-left" src="/assets/images/projects/playtunes/playtunes3-app-icon-96.png"/>
 
+PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit.
 
-|---|---|
-||Savor for iPad (2014)|
-|---|---|
-||_Savor (now Tidal Commerce)_|
-|![Savor App Icon](/assets/images/projects/savor-app-icon-96.png)|Savor was a retail offer and deal website. The Savor app for iPad featured a Flipboard-style page turning interface that let users browse offers and deals by category or by retailer.|
-||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
-||<a href="/assets/images/projects/savor/savor-screenshot-1.jpg"><img src="/assets/images/projects/savor/savor-screenshot-1.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-2.jpg"><img src="/assets/images/projects/savor/savor-screenshot-2.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-3.jpg"><img src="/assets/images/projects/savor/savor-screenshot-3.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-4.jpg"><img src="/assets/images/projects/savor/savor-screenshot-4.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-5.jpg"><img src="/assets/images/projects/savor/savor-screenshot-5.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-6.jpg"><img src="/assets/images/projects/savor/savor-screenshot-6.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-7.jpg"><img src="/assets/images/projects/savor/savor-screenshot-7.jpg" alt="" class="img-thumbnail img-ipad-land"></a>|
-|---|---|
+Developed with Java and the Android Development Tools.
+
+Source code available at <a href="https://github.com/jeffington/PlayTunes">GitHub jeffington/PlayTunes</a>
+
+<a href="/assets/images/projects/playtunes/screenshot-1.png"><img src="/assets/images/projects/playtunes/screenshot-1.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-2.png"><img src="/assets/images/projects/playtunes/screenshot-2.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-3.png"><img src="/assets/images/projects/playtunes/screenshot-3.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-4.png"><img src="/assets/images/projects/playtunes/screenshot-4.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-5.png"><img src="/assets/images/projects/playtunes/screenshot-5.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-6.png"><img src="/assets/images/projects/playtunes/screenshot-6.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-7.png"><img src="/assets/images/projects/playtunes/screenshot-7.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-8.png"><img src="/assets/images/projects/playtunes/screenshot-8.png" alt="" class="img-thumbnail img-android-port"></a>
 
 
+### Savor for iPad (2014)
 
-|---|---|
-||Notepad RT for Windows 8 (2012)|
-|---|---|
-||_Independently Released_|
-|![Notepad RT App Icon](/assets/images/projects/notepadrt/notepadrt-app-icon-96.png)|Notepad RT is the missing code editor for developers and geeks for Windows 8 with rich support for text manipulation and syntax highlighting. Built specifically for Windows 8, Notepad RT matches the features and performance of desktop-class editors. Notepad RT is compatible with x86, x64, and ARM. It features syntax highlighting for HTML, CSS, JavaScript, PHP, Python, Ruby, C/C++, C#, Java, and Markdown, several popular Dark and Light Syntax highlighting themes to choose from, live syntax checking for JavaScript and CSS, automatic indention, Line wrapping, and Code folding, highlighting of matching parentheses and selected line, find and replace using regular expressions, use the Share Charm to send code via IM or Mail, and toggle invisible characters.|
-||Developed with JavaScript, HTML, and CSS.|
-||Source code available at <a href="https://github.com/jeffington/Notepad-RT">GitHub jeffington/Notepad-RT</a>|
-||<a href="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg" alt="" class="img-thumbnail img-windows-land"></a><a href="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg" alt="" class="img-thumbnail img-windows-land"></a>|
+_Tidal Commerce formerly Cardley (2014)_
+
+<img class="float-left" src="/assets/images/projects/savor-app-icon-96.png">
+
+Savor was a retail offer and deal website. The Savor app for iPad featured a Flipboard-style page turning interface that let users browse offers and deals by category or by retailer.
 
 
+Developed with Objective-C, WebView, JavaScript, HTML, and CSS.
 
-|---|---|
-||SparkHire Mobile for iOS and Android (2011-2013)|
-|---|---|
-||_SparkHire_|
-||Company Website:__ [sparkhire.com](https://sparkhire.com)|
-||SparkHire is a job search and video interviewing service. I worked alongside with the SparkHire web development team to design and create an iOS and Android application that mirrored the functionality of the website. The app allowed users to sign up with SparkHire, edit their profile, record videos and post them from within the app. |
 
+<a href="/assets/images/projects/savor/savor-screenshot-1.jpg"><img src="/assets/images/projects/savor/savor-screenshot-1.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-2.jpg"><img src="/assets/images/projects/savor/savor-screenshot-2.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-3.jpg"><img src="/assets/images/projects/savor/savor-screenshot-3.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-4.jpg"><img src="/assets/images/projects/savor/savor-screenshot-4.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-5.jpg"><img src="/assets/images/projects/savor/savor-screenshot-5.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-6.jpg"><img src="/assets/images/projects/savor/savor-screenshot-6.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-7.jpg"><img src="/assets/images/projects/savor/savor-screenshot-7.jpg" alt="" class="img-thumbnail img-ipad-land"></a>
+
+
+### Notepad RT for Windows 8
+
+_Independently Released (2012)_
+
+<img class="float-left" src="/assets/images/projects/notepadrt/notepadrt-app-icon-96.png">
+
+Notepad RT is the missing code editor for developers and geeks for Windows 8 with rich support for text manipulation and syntax highlighting. Built specifically for Windows 8, Notepad RT matches the features and performance of desktop-class editors. Notepad RT is compatible with x86, x64, and ARM. It features syntax highlighting for HTML, CSS, JavaScript, PHP, Python, Ruby, C/C++, C#, Java, and Markdown, several popular Dark and Light Syntax highlighting themes to choose from, live syntax checking for JavaScript and CSS, automatic indention, Line wrapping, and Code folding, highlighting of matching parentheses and selected line, find and replace using regular expressions, use the Share Charm to send code via IM or Mail, and toggle invisible characters.|
+
+Developed with JavaScript, HTML, and CSS.
+
+Source code available at <a href="https://github.com/jeffington/Notepad-RT">GitHub jeffington/Notepad-RT</a>
+
+<a href="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot1.jpg" alt="" class="img-thumbnail img-windows-land"></a><a href="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg"><img src="/assets/images/projects/notepadrt/notepadrt-screenshot2.jpg" alt="" class="img-thumbnail img-windows-land"></a>
+
+
+### SparkHire Mobile for iOS and Android
+
+_SparkHire (2011-2013)_
+
+SparkHire is a job search and video interviewing service. I worked alongside with the SparkHire web development team to design and create an iOS and Android application that mirrored the functionality of the website. The app allowed users to sign up with SparkHire, edit their profile, record videos and post them from within the app.
+
+[SparkHire Homepage](https://sparkhire.com)
