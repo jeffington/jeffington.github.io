@@ -64,7 +64,7 @@ _The main page of preTOLD, left panel is input, right panel is output_
 <a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
 
-_TOLD Card Page in preTOLD_
+_TOLD Card Page in preTOLD, light and dark modes, and magnified sections_
 
 ### Cardley
 
@@ -72,11 +72,16 @@ _Tidal Commerce formerly Cardley (2015)_
 
 <img class="icon-img float-left" src="/assets/images/projects/cardley/cardley-app-icon-96.png">
 
-Cardley was a customer loyalty program for restaurants and merchants. Customers could sign up by swiping their credit card at the kiosk, and future purchases made with the registered card would automatically receive discounts and rewards.
+Cardley was a customer loyalty program for restaurants and merchants.
+
+I developed Cardley as a kiosk Android app, replacing the device's default Android Launcher and guiding users through the Cardley account sign up process. It integrated with an external credit card reader and used the card data to create an account with a third party PCI compliant API provided by [Linkable Networks](https://linkablenetworks.com). After registering the user, future credit card transactions would automatically receive discounts and rewards.
+
+Shortly after completing the application, Cardley was unable to secure funding for continued development and a production release.
 
 Developed with Java and the Android Development Tools.
 
 <a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>
+_The application guided the user through signing up, reading their credit card from the reader, and creating the account._
 
 
 ### PlayTunes for Android 
