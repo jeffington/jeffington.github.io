@@ -24,12 +24,14 @@ The separate pieces of the TOLD card are all created in PaintCode. This gave us 
 
 Using PaintCode also made it very straightforward to shareable PDFs.
 
+### Looking For
+
+
 
 ## Projects
 
 |---|---|
-|![C-130J preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|C-130J preTOLD for iPad (2014 - Present)|
-|_Elite Electronic Engineering_
+|![C-130J preTOLD App Icon](/assets/images/projects/pretold/pretold-app-icon-96.png)|C-130J preTOLD for iPad (2014 - Present)|_Elite Electronic Engineering_
 __Project Website:__ [C-130J preTOLD™](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold)|
 |---|---|
 preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane. C-130J preTOLD is the only TOLD planning tool approved by Lockheed Martin for technical accuracy and overall functionality. It takes the TOLD planning capability of the Mission Computer (MC TOLD) off the flight deck and into the hands of crew members and planners. C-130J preTOLD has been validated against MC TOLD in partnership with Lockheed Martin. For crew members, C-130J preTOLD adds pinpoint accuracy and confidence to preflight mission planning and enables operators to utilize the full capability of the C-130J every day.
