@@ -81,6 +81,7 @@ Shortly after completing the application, Cardley was unable to secure funding f
 Developed with Java and the Android Development Tools.
 
 <a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>
+
 _The application guided the user through signing up, reading their credit card from the reader, and creating the account._
 
 
