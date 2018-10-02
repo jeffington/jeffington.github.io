@@ -8,13 +8,18 @@ title: Home
 
 Chicago, IL
 
-**Resume:** <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.pdf"><img src="/assets/images/icons8-pdf-100.png" style="height: 22px; width: 22px;"/> Adobe PDF</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.docx"><img src="/assets/images/icons8-microsoft-word-100.png" style="height: 22px; width: 22px"/> Microsoft Word .docx</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.doc"><img src="/assets/images/icons8-word-100.png" style="height: 22px; width: 22px;"/> Microsoft Word Legacy .doc</a>
+**Resume:** <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.pdf"><img src="/assets/images/icons8-pdf-100.png" style="height: 22px; width: 22px;"/> Adobe PDF</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.docx"><img src="/assets/images/icons8-microsoft-word-100.png" style="height: 22px; width: 22px"/> Microsoft Word .docx</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.doc"><img src="/assets/images/icons8-word-100.png" style="height: 22px; width: 22px;"/> Word Legacy .doc</a>
 
 **Email:** <a href="mailto:jeff@jdmlabs.org">jeff@jdmlabs.org</a>
 
 ## About Me
 
+<img src="/assets/images/jeff-torrey-pines18.png">
+
 Hi, I'm Jeff Meyerhoff and I'm a mobile application developer.
+
+I've been helping small businesses and startups create complimentary mobile apps, and proofs of concept. 
+
 
 I've written mobile applications for iPhone and iPad in Objective-C, Android applications in Java, . For the last five years I've worked with Elite Electronic Engineering in Downers Grove, IL. Under the direction of Kevin Halpin, I re-used the data model from a Visual Basic.NET application to create a version for iPad called **preTOLD C-130J** (or just preTOLD) using Visual Studio for Mac and the Xamarin tools. 
 
