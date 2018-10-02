@@ -36,6 +36,15 @@ C-130J preTOLD is a flight planning application for U.S. Air Force pilots of the
 I worked with Elite to design the user interface for preTOLD. The main goal of the application is for pilots to think through flight scenarios that have varying weather or runway conditions. It is important that pilots are able to quickly switch between these scenarios and compare them to each other. Our interface has dedicated buttons to create, save, and view saved flight scenarios. By putting this functionality at the top-left of the screen, users of preTOLD don't have to dig into menus or browse files to open, modify, and save their flight plans. As a result, the user feedback we get from pilots and flight instructors is overwhelmingly positive.
 
 
+I implemented our design using the Xamarin.iOS tools. We chose Xamarin because Elite had an existing Windows .NET codebase. Xamarin enabled us to re-use the exact same calculation code across both Windows and iOS. To facilitate even more code sharing, we designed the data model using the ViewModel design pattern. This enabled us to share some UI logic (such as input validation) and has made testing and general maintenance much easier.
+
+One of the major features of preTOLD is the ability to export your flight plans as a PDF "TOLD Card". The TOLD Card is a standardized way of displaying and sharing flight information. Using the application <a href="https://www.paintcodeapp.com">PaintCode</a>, I created the TOLD Card as a custom view. This enabled us to easily switch between light and dark color schemes, export the TOLD Card to PDF without a third party library, as well as enable other custom interactions.
+
+Developed with C#, .NET, and Xamarin iOS tools.
+
+Only available on the Apple B2B Store. Product demos available upon request. Learn more at [C-130J preTOLD™ Product Page](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold), [Elite Homepage](www.elitetest.com/)
+
+
 <a href="/assets/images/projects/pretold/screenshot-port-1.png"><img src="/assets/images/projects/pretold/screenshot-port-1.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-2.png"><img src="/assets/images/projects/pretold/screenshot-port-2.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-3.png"><img src="/assets/images/projects/pretold/screenshot-port-3.png" alt="" class="img-thumbnail img-ipad-port"></a>
@@ -48,22 +57,12 @@ I worked with Elite to design the user interface for preTOLD. The main goal of t
 <a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a>
 __The main page of preTOLD, left panel is input, right panel is output__
 
-I implemented our design using the Xamarin.iOS tools. We chose Xamarin because Elite had an existing Windows .NET codebase. Xamarin enabled us to re-use the exact same calculation code across both Windows and iOS. To facilitate even more code sharing, we designed the data model using the ViewModel design pattern. This enabled us to share some UI logic (such as input validation) and has made testing and general maintenance much easier.
-
-One of the major features of preTOLD is the ability to export your flight plans as a PDF "TOLD Card". The TOLD Card is a standardized way of displaying and sharing flight information. Using the application <a href="https://www.paintcodeapp.com">PaintCode</a>, I created the TOLD Card as a custom view. This enabled us to easily switch between light and dark color schemes, export the TOLD Card to PDF without a third party library, as well as enable other custom interactions.
-
 <a href="/assets/images/projects/pretold/screenshot-port-11.png"><img src="/assets/images/projects/pretold/screenshot-port-11.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-12.png"><img src="/assets/images/projects/pretold/screenshot-port-12.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
 __TOLD Card Page in preTOLD__
-
-
-Developed with C#, .NET, and Xamarin iOS tools.
-
-Only available on the Apple B2B Store. Product demos available upon request. Learn more at [C-130J preTOLD™ Product Page](https://www.elitetest.com/engineering-services/aviation-software-services/c-130-pretold), [Elite Homepage](www.elitetest.com/)
-
 
 ### Cardley
 
