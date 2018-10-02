@@ -55,14 +55,14 @@ Only available on the Apple B2B Store. Product demos available upon request. Lea
 <a href="/assets/images/projects/pretold/screenshot-port-8.png"><img src="/assets/images/projects/pretold/screenshot-port-8.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-9.png"><img src="/assets/images/projects/pretold/screenshot-port-9.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a>
-__The main page of preTOLD, left panel is input, right panel is output__
+_The main page of preTOLD, left panel is input, right panel is output_
 
 <a href="/assets/images/projects/pretold/screenshot-port-11.png"><img src="/assets/images/projects/pretold/screenshot-port-11.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-12.png"><img src="/assets/images/projects/pretold/screenshot-port-12.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
-__TOLD Card Page in preTOLD__
+_TOLD Card Page in preTOLD_
 
 ### Cardley
 
