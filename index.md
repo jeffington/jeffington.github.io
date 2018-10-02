@@ -8,9 +8,7 @@ title: Home
 
 Chicago, IL
 
-Resume
-
-PDF [] Word (DocX) Word 2003 (DOC)
+**Resume:** <a href="#">PDF <img src="/assets/images/icons8-pdf-100.png"/></a>
 
 jeff@jdmlabs.org
 
