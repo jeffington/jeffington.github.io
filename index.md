@@ -8,9 +8,9 @@ title: Home
 
 Chicago, IL
 
-**Resume:** <a href="#">PDF <img src="/assets/images/icons8-pdf-100.png"/></a>
+**Resume:** <a href="#"><img src="/assets/images/icons8-pdf-100.png" style="height: 22px width: 22px"/> Adobe PDF</a> <a href="#"><img src="/assets/images/icons8-microsoft-word-100.png" style="height: 22px width: 22px"/> MS Word .docx</a> <a href="#"><img src="/assets/images/icons8-word-100.png" style="height: 22px width: 22px"/> PDF</a>
 
-jeff@jdmlabs.org
+**Email:** <a href="mailto:jeff@jdmlabs.org">jeff@jdmlabs.org</a>
 
 ## About Me
 
