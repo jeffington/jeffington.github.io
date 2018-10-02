@@ -14,7 +14,7 @@ Chicago, IL
 
 ## About Me
 
-<img src="/assets/images/jeff-torrey-pines18.png">
+<img src="/assets/images/jeff-torrey-pines18.jpg">
 
 Hi, I'm Jeff Meyerhoff and I'm a mobile application developer.
 
