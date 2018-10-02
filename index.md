@@ -4,7 +4,8 @@ title: Home
 ---
 
 # Jeff Meyerhoff
-### Mobile Software Developer
+
+Mobile application developer primarily working in Xamarin C# .NET, with experience in iOS Objective-C, Android Java, and JavaScript-based applications.
 
 Chicago, IL
 
