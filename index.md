@@ -38,7 +38,7 @@ Using PaintCode also made it very straightforward to shareable PDFs.
 
 _Elite Electronic Engineering (2014 - Present)_
 
-<img src="/assets/images/projects/pretold/pretold-app-icon-96.png" class="float-left"/>
+<img class="icon-img float-left" src="/assets/images/projects/pretold/pretold-app-icon-96.png" />
 
 preTOLD is a flight planning application for pilots of the Lockheed Martin C-130J cargo airplane. C-130J preTOLD is the only TOLD planning tool approved by Lockheed Martin for technical accuracy and overall functionality. It takes the TOLD planning capability of the Mission Computer (MC TOLD) off the flight deck and into the hands of crew members and planners. C-130J preTOLD has been validated against MC TOLD in partnership with Lockheed Martin. For crew members, C-130J preTOLD adds pinpoint accuracy and confidence to preflight mission planning and enables operators to utilize the full capability of the C-130J every day.
 
@@ -53,7 +53,7 @@ Only available on the Apple B2B Store. Product demos provided upon request. Lear
 
 _Tidal Commerce formerly Cardley (2015)_
 
-<img class="float-left" src="/assets/images/projects/cardley/cardley-app-icon-96.png">
+<img class="icon-img float-left" src="/assets/images/projects/cardley/cardley-app-icon-96.png">
 
 Cardley was a customer loyalty program for restaurants and merchants. Customers could sign up by swiping their credit card at the kiosk, and future purchases made with the registered card would automatically receive discounts and rewards.
 
@@ -66,7 +66,7 @@ Developed with Java and the Android Development Tools.
 
 _Independently Released (2010 - 2015)_
 
-<img class="float-left" src="/assets/images/projects/playtunes/playtunes3-app-icon-96.png"/>
+<img class="icon-img float-left" src="/assets/images/projects/playtunes/playtunes3-app-icon-96.png"/>
 
 PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit.
 
@@ -81,7 +81,7 @@ Source code available at <a href="https://github.com/jeffington/PlayTunes">GitHu
 
 _Tidal Commerce formerly Cardley (2014)_
 
-<img class="float-left" src="/assets/images/projects/savor-app-icon-96.png">
+<img class="icon-img float-left" src="/assets/images/projects/savor-app-icon-96.png">
 
 Savor was a retail offer and deal website. The Savor app for iPad featured a Flipboard-style page turning interface that let users browse offers and deals by category or by retailer.
 
@@ -96,9 +96,9 @@ Developed with Objective-C, WebView, JavaScript, HTML, and CSS.
 
 _Independently Released (2012)_
 
-<img class="float-left" src="/assets/images/projects/notepadrt/notepadrt-app-icon-96.png">
+<img class="icon-img float-left" src="/assets/images/projects/notepadrt/notepadrt-app-icon-96.png">
 
-Notepad RT is the missing code editor for developers and geeks for Windows 8 with rich support for text manipulation and syntax highlighting. Built specifically for Windows 8, Notepad RT matches the features and performance of desktop-class editors. Notepad RT is compatible with x86, x64, and ARM. It features syntax highlighting for HTML, CSS, JavaScript, PHP, Python, Ruby, C/C++, C#, Java, and Markdown, several popular Dark and Light Syntax highlighting themes to choose from, live syntax checking for JavaScript and CSS, automatic indention, Line wrapping, and Code folding, highlighting of matching parentheses and selected line, find and replace using regular expressions, use the Share Charm to send code via IM or Mail, and toggle invisible characters.|
+Notepad RT is the missing code editor for developers and geeks for Windows 8 with rich support for text manipulation and syntax highlighting. Built specifically for Windows 8, Notepad RT matches the features and performance of desktop-class editors. Notepad RT is compatible with x86, x64, and ARM. It features syntax highlighting for HTML, CSS, JavaScript, PHP, Python, Ruby, C/C++, C#, Java, and Markdown, several popular Dark and Light Syntax highlighting themes to choose from, live syntax checking for JavaScript and CSS, automatic indention, Line wrapping, and Code folding, highlighting of matching parentheses and selected line, find and replace using regular expressions, use the Share Charm to send code via IM or Mail, and toggle invisible characters.
 
 Developed with JavaScript, HTML, and CSS.
 
