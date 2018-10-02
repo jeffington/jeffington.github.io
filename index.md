@@ -46,6 +46,7 @@ I worked with Elite to design the user interface for preTOLD. The main goal of t
 <a href="/assets/images/projects/pretold/screenshot-port-8.png"><img src="/assets/images/projects/pretold/screenshot-port-8.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-9.png"><img src="/assets/images/projects/pretold/screenshot-port-9.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-10.png"><img src="/assets/images/projects/pretold/screenshot-port-10.png" alt="" class="img-thumbnail img-ipad-port"></a>
+__The main page of preTOLD, left panel is input, right panel is output__
 
 I implemented our design using the Xamarin.iOS tools. We chose Xamarin because Elite had an existing Windows .NET codebase. Xamarin enabled us to re-use the exact same calculation code across both Windows and iOS. To facilitate even more code sharing, we designed the data model using the ViewModel design pattern. This enabled us to share some UI logic (such as input validation) and has made testing and general maintenance much easier.
 
@@ -56,6 +57,8 @@ One of the major features of preTOLD is the ability to export your flight plans 
 <a href="/assets/images/projects/pretold/screenshot-port-13.png"><img src="/assets/images/projects/pretold/screenshot-port-13.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-14.png"><img src="/assets/images/projects/pretold/screenshot-port-14.png" alt="" class="img-thumbnail img-ipad-port"></a>
 <a href="/assets/images/projects/pretold/screenshot-port-15.png"><img src="/assets/images/projects/pretold/screenshot-port-15.png" alt="" class="img-thumbnail img-ipad-port"></a>
+__TOLD Card Page in preTOLD__
+
 
 Developed with C#, .NET, and Xamarin iOS tools.
 
