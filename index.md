@@ -74,7 +74,7 @@ _Tidal Commerce formerly Cardley (2015)_
 
 Cardley was a customer loyalty program for restaurants and merchants.
 
-I developed Cardley as a kiosk Android app, replacing the device's default Android Launcher and guiding users through the Cardley account sign up process. It integrated with an external credit card reader and used the card data to create an account with a third party PCI compliant API provided by [Linkable Networks](https://linkablenetworks.com). After registering the user, future credit card transactions would automatically receive discounts and rewards.
+I was hired to develop Cardley as a Android kiosk-style app. It replaced the host device's default Android Launcher (home screen) and guided users through the Cardley account sign up process. It integrated with an external credit card reader that connected through the 3.5mm audio port. It then used the card data to create an account with a third party PCI compliant API provided by [Linkable Networks](https://linkablenetworks.com). After registering the user, future credit card transactions would automatically receive discounts and rewards.
 
 Shortly after completing the application, Cardley was unable to secure funding for continued development and a production release.
 
