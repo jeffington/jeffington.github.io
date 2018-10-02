@@ -74,7 +74,7 @@ _Tidal Commerce formerly Cardley (2015)_
 
 Cardley was a customer loyalty program for restaurants and merchants.
 
-I was hired to develop Cardley as a Android kiosk-style app. It replaced the host device's default Android Launcher (home screen) and guided users through the Cardley account sign up process. It integrated with an external credit card reader that connected through the 3.5mm audio port. It then used the card data to create an account with a third party PCI compliant API provided by [Linkable Networks](https://linkablenetworks.com). After registering the user, future credit card transactions would automatically receive discounts and rewards.
+I was hired to develop Cardley as a kiosk-style Android app. It replaced the host device's default Android Launcher (home screen) and guided users through the Cardley account sign up process. It integrated with an external credit card reader that connected through the 3.5mm audio port. It then used the card data to create an account with a third party PCI compliant API provided by [Linkable Networks](https://linkablenetworks.com). After registering the user, future credit card transactions would automatically receive discounts and rewards.
 
 Shortly after completing the application, Cardley was unable to secure funding for continued development and a production release.
 
@@ -82,7 +82,7 @@ Developed with Java and the Android Development Tools.
 
 <a href="/assets/images/projects/cardley/cardley-screenshot-1.png"><img src="/assets/images/projects/cardley/cardley-screenshot-1.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-2.png"><img src="/assets/images/projects/cardley/cardley-screenshot-2.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-3.png"><img src="/assets/images/projects/cardley/cardley-screenshot-3.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-4.png"><img src="/assets/images/projects/cardley/cardley-screenshot-4.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-5.png"><img src="/assets/images/projects/cardley/cardley-screenshot-5.png" alt="" class="img-thumbnail img-kiosk-land"></a><a href="/assets/images/projects/cardley/cardley-screenshot-6.png"><img src="/assets/images/projects/cardley/cardley-screenshot-6.png" alt="" class="img-thumbnail img-kiosk-land"></a>
 
-_The application guided the user through signing up, reading their credit card from the reader, and creating the account._
+_The application guided the user through signing up, reading their credit card from the reader, and creating an account_
 
 
 ### PlayTunes for Android 
@@ -108,10 +108,13 @@ _Tidal Commerce formerly Savor (2014)_
 
 <img class="icon-img float-left" src="/assets/images/projects/savor-app-icon-96.png">
 
-Savor was a retail offer and deal website. The Savor app for iPad featured a Flipboard-style page turning interface that let users browse offers and deals by category or by retailer.
+Savor was a retail offer and deal website.
 
+I was hired to create an iPad app that presented a version of the Savor website that was customized with a Flipboard-style page layout for iPad. The iPad app used the (Card.io)[https://www.card.io] library to let users register for accounts using their credit card. I coordinated with the Savor web development team in Hyderabad, India to make sure that our native code and web code worked together.
 
-Developed with Objective-C, WebView, JavaScript, HTML, and CSS.
+Savor was unable to secure funding for continued development or a production release.
+
+Developed with Objective-C, iOS's UIWebView, JavaScript, HTML, and CSS.
 
 
 <a href="/assets/images/projects/savor/savor-screenshot-1.jpg" data-gallery="#gallery-savor"><img src="/assets/images/projects/savor/savor-screenshot-1.jpg" alt="" class="img-thumbnail img-ipad-land"></a>
