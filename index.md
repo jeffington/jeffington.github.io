@@ -64,6 +64,16 @@ Using PaintCode also made it very straightforward to shareable PDFs.
 ---
 
 |---|---|
+||PlayTunes for Android (2010 - 2015)|
+|---|---|
+||_Independently Released_|
+|![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit. The source code for PlayTunes is publicly available on GitHub (here: <a href="https://github.com/jeffington/PlayTunes">jeffington/PlayTunes</a>).|
+||Developed with Java and the Android Development Tools.|
+||<a href="/assets/images/projects/playtunes/screenshot-1.png"><img src="/assets/images/projects/playtunes/screenshot-1.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-2.png"><img src="/assets/images/projects/playtunes/screenshot-2.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-3.png"><img src="/assets/images/projects/playtunes/screenshot-3.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-4.png"><img src="/assets/images/projects/playtunes/screenshot-4.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-5.png"><img src="/assets/images/projects/playtunes/screenshot-5.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-6.png"><img src="/assets/images/projects/playtunes/screenshot-6.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-7.png"><img src="/assets/images/projects/playtunes/screenshot-7.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-8.png"><img src="/assets/images/projects/playtunes/screenshot-8.png" alt="" class="img-thumbnail img-android-port"></a>|
+
+---
+
+|---|---|
 ||Savor for iPad (2014)|
 |---|---|
 ||_Savor (now Tidal Commerce)_|
@@ -71,16 +81,6 @@ Using PaintCode also made it very straightforward to shareable PDFs.
 ||Developed with Objective-C, WebView, JavaScript, HTML, and CSS.|
 ||<a href="/assets/images/projects/savor/savor-screenshot-1.jpg"><img src="/assets/images/projects/savor/savor-screenshot-1.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-2.jpg"><img src="/assets/images/projects/savor/savor-screenshot-2.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-3.jpg"><img src="/assets/images/projects/savor/savor-screenshot-3.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-4.jpg"><img src="/assets/images/projects/savor/savor-screenshot-4.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-5.jpg"><img src="/assets/images/projects/savor/savor-screenshot-5.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-6.jpg"><img src="/assets/images/projects/savor/savor-screenshot-6.jpg" alt="" class="img-thumbnail img-ipad-land"></a><a href="/assets/images/projects/savor/savor-screenshot-7.jpg"><img src="/assets/images/projects/savor/savor-screenshot-7.jpg" alt="" class="img-thumbnail img-ipad-land"></a>|
 |---|---|
-
----
-
-|---|---|
-||PlayTunes for Android (2010 - 2015)|
-|---|---|
-||_Independently Released_|
-|![PlayTunes App Icon](/assets/images/projects/playtunes/playtunes3-app-icon-96.png)|PlayTunes was a music player app for Android that I first built in 2010 using Java, Eclipse, and the Android UI toolkit. The source code for PlayTunes is publicly available on GitHub.|
-||Developed with Java and the Android Development Tools.|
-||<a href="/assets/images/projects/playtunes/screenshot-1.png"><img src="/assets/images/projects/playtunes/screenshot-1.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-2.png"><img src="/assets/images/projects/playtunes/screenshot-2.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-3.png"><img src="/assets/images/projects/playtunes/screenshot-3.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-4.png"><img src="/assets/images/projects/playtunes/screenshot-4.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-5.png"><img src="/assets/images/projects/playtunes/screenshot-5.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-6.png"><img src="/assets/images/projects/playtunes/screenshot-6.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-7.png"><img src="/assets/images/projects/playtunes/screenshot-7.png" alt="" class="img-thumbnail img-android-port"></a><a href="/assets/images/projects/playtunes/screenshot-8.png"><img src="/assets/images/projects/playtunes/screenshot-8.png" alt="" class="img-thumbnail img-android-port"></a>|
 
 ---
 
