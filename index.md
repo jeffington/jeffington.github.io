@@ -14,8 +14,10 @@ Mobile application developer working in Xamarin C# .NET, with experience in iOS 
 **Email:** <a href="mailto:jeff@jdmlabs.org">jeff@jdmlabs.org</a>
 
 ## About Me
-
-<img class="float-right" style="margin-left: 10px;" src="/assets/images/jeff-torrey-pines18.jpg">
+<figure class="figure float-right" style="margin-left: 10px;">
+  <img src="/assets/images/jeff-torrey-pines18.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">Torrey Pines State Park. I'm on the right trying not to drop my phone while taking a picture.</figcaption>
+</figure>
 
 Hi, I'm Jeff Meyerhoff and I'm a mobile application developer living and working in Chicago, IL. Since graduating with a B.S. in Computer Science from Grand Valley State University in 2010, I have been working as a contractor and consultant developing consumer-facing mobile apps for a variety of clients.
 
