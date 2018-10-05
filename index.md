@@ -7,6 +7,8 @@ title: Home
 
 Mobile application developer working in Xamarin C# .NET, with experience in iOS Objective-C, Android Java, and JavaScript-based applications.
 
+<a href="https://devconnect.xamarin.com/profile/11418"><img src="/assets/images/Xamarin-Mobile-Professional-Badge.svg" style="width: 22px; height: 22px;" />Xamarin Certified Mobile Professional</a>
+
 **Resume:** <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.pdf"><img src="/assets/images/icons8-pdf-100.png" style="height: 22px; width: 22px;"/> Adobe PDF</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.docx"><img src="/assets/images/icons8-microsoft-word-100.png" style="height: 22px; width: 22px"/> Microsoft Word .docx</a> <a href="/assets/documents/Jeff Meyerhoff Resume October 2018.doc"><img src="/assets/images/icons8-word-100.png" style="height: 22px; width: 22px;"/> Word Legacy .doc</a>
 
 **GitHub:** <a href="https://github.com/jeffington">jeffington</a>
